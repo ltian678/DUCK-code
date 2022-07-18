@@ -20,7 +20,7 @@ networkx <br />
 pickle <br />
 <br />
 
-> required packages are in requirements.txt
+# required packages are in requirements.txt
 
 ```bash
 pip install -r requirements.txt
@@ -33,10 +33,10 @@ pip install -r requirements.txt
 
 All datasets are public accessible
 
-[Twitter15](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0 )
-[Twitter16] (https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0 )
-[CoAID] (https://github.com/cuilimeng/CoAID) version 0.4
-[WEIBO] (https://alt.qcri.org/~wgao/data/rumdect.zip)
+[Twitter15](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0 ) <br />
+[Twitter16] (https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0 ) <br />
+[CoAID] (https://github.com/cuilimeng/CoAID) version 0.4 <br />
+[WEIBO] (https://alt.qcri.org/~wgao/data/rumdect.zip) <br />
 
 # data crawling tool
 
@@ -68,9 +68,9 @@ $ sh run.sh
 ```
 
 ## publicaton
-This is the source code for DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks
-Paper accepted by NAACL 2022
+This is the source code for 
+[DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks](https://aclanthology.org/2022.naacl-main.364/)
 
 
 If you find this code useful, please let us know and cite our paper.  
-If you have any question, please contact Lin at: s3795533 at student dot rmit dot rmit dot edu dot au.
+If you have any question, please contact Lin at: s3795533 at student dot rmit dot edu dot au.
