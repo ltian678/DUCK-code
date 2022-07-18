@@ -1,24 +1,24 @@
 ## requirement packages
 
-# Dependencies:  
-python==3.7
-torch==1.9.0+cu102
-torchvision==0.10.0+cu102
-torch-scatter==2.0.8
-torch-sparse==0.6.11
-torch-geometric==1.7.2
-transformers==4.2.1
-sckikit-learn==0.21.3
-tqdm==4.62.0
-numpy==1.19.5
-pandas
-matplotlib==2.2.3
-networkx==2.2
-scipy==1.2.0
-pyro-ppl==0.3.0
-networkx
-pickle
-
+# Dependencies:  <br />
+python==3.7 <br />
+torch==1.9.0+cu102 <br />
+torchvision==0.10.0+cu102 <br />
+torch-scatter==2.0.8 <br />
+torch-sparse==0.6.11 <br />
+torch-geometric==1.7.2 <br />
+transformers==4.2.1 <br />
+sckikit-learn==0.21.3 <br />
+tqdm==4.62.0 <br />
+numpy==1.19.5 <br />
+pandas <br />
+matplotlib==2.2.3 <br />
+networkx==2.2 <br />
+scipy==1.2.0 <br />
+pyro-ppl==0.3.0 <br />
+networkx <br />
+pickle <br />
+<br />
 
 > required packages are in requirements.txt
 
